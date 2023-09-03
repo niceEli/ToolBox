@@ -72,7 +72,7 @@ public class Conf {
             writer.newLine();
             writer.write("0.0");
             writer.newLine();
-            writer.write("https://niceEli.github.io/ToolBox/Branches"); // Change To Emmie's Site After Merge
+            writer.write("https://niceeli.github.io/net.niceEli.ToolBox/"); // Change To Emmie's Site After Merge
             writer.newLine();
             writer.close();
         }
