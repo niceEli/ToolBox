@@ -1,4 +1,4 @@
-package net.lem.ToolBox;
+package net.niceEli.ToolBox;
 
 public class ClearScreen {
     public static void Execute() {

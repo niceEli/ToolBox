@@ -1,4 +1,4 @@
-package net.lem.ToolBox;
+package net.niceEli.ToolBox;
 
 import org.apache.commons.compress.archivers.zip.ZipArchiveEntry;
 import org.apache.commons.compress.archivers.zip.ZipFile;

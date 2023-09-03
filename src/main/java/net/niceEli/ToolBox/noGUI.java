@@ -1,7 +1,4 @@
-package net.lem.ToolBox;
-
-import java.io.IOException;
-import java.util.Objects;
+package net.niceEli.ToolBox;
 
 public class noGUI {
 

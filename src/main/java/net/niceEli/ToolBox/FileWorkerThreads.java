@@ -1,4 +1,4 @@
-package net.lem.ToolBox;
+package net.niceEli.ToolBox;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

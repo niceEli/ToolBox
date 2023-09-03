@@ -1,4 +1,4 @@
-package net.lem.ToolBox.GUIIcons;
+package net.niceEli.ToolBox.GUIIcons;
 
 public class LEMLogo {
     public static void GUI() {
